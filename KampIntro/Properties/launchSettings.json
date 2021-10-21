@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KampIntro": {
+      "commandName": "Project"
+    },
+    "Ders2Odev6": {
+      "commandName": "Executable"
+    }
+  }
+}
